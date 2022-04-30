@@ -244,3 +244,10 @@ Here are some ideas to get you started:
 -->
 
 <br>
+
+### Donate
+<hr>
+
+<a alt="Paypal Me" href="https://www.paypal.me/EdwinBetanc0urt" target="_blank">
+  <img alt="PayPal" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" />
+</a>
