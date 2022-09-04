@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  Hi there 👋, I'm <a href="https://github.com/EdwinBetanc0urt">Edwin Betancourt</a>
+  Hola 👋, soy <a href="https://github.com/EdwinBetanc0urt">Edwin Betancourt</a>
 </h1>
 <h3 align="center">
-  Software Engineer from Venezuela 🇻🇪
+  Ingeniero de Software de Venezuela 🇻🇪
 </h3>
 
 <a href='https://www.linkedin.com/in/edwinbetanc0urt/'>
@@ -31,16 +31,16 @@ Here are some ideas to get you started:
 </a>
 
 
-English | [Spanish](./README.es.md)
+Español | [Inglés](./README.md)
 
 
 ---
 
-## 🏆 Github Profile
+## 🏆 Perfil Github
 
-### 🔨 Programming Languages and Tools:
+### 🔨 Lenguajes de Programación y Herramientas:
 
-* Back-End:
+* Servidor:
 
 <table>
   <tr>
@@ -78,7 +78,7 @@ English | [Spanish](./README.es.md)
 </table>
 
 
-* Front-End:
+* Cliente:
 
 <table>
   <tr>
@@ -112,7 +112,7 @@ English | [Spanish](./README.es.md)
 </table>
 
 
-* Data Base:
+* Base de Datos:
 
 <table>
   <tr>
@@ -149,9 +149,9 @@ English | [Spanish](./README.es.md)
   </tr>
 </table>
 
-<!--
-* Mobile
 
+<!--
+Mobile
 <img alt="Android" width="48" height="48" src="./icons/android/android.svg">
 -->
 
@@ -205,7 +205,7 @@ English | [Spanish](./README.es.md)
 </table>
 
 
-* Work Environment:
+* Entorno de Trabajo:
 
 <table>
   <tr>
@@ -248,7 +248,7 @@ English | [Spanish](./README.es.md)
 
 <br>
 
-### Donate
+### Donar
 <hr>
 
 <a alt="Paypal Me" href="https://www.paypal.me/EdwinBetanc0urt" target="_blank">
