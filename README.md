@@ -55,6 +55,10 @@ English | [Spanish](./README.es.md)
       <img alt="Rust" width="48" height="48" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
       <br>Rust
     </td>
+    <td align="center" width="96">
+      <img alt="C#" width="48" height="48" src="./icons/java/java.svg">
+      <br>C#
+    </td>
   </tr>
 </table>
 
