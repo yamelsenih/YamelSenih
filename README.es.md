@@ -1,46 +1,38 @@
-<!--
-**EdwinBetanc0urt/EdwinBetanc0urt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabajo actualmente en [E.R.P. Consultores y Asociados, C.A.](https://erpya.com/)
+- 🌱 Estoy aprendiendo [Rust](https://www.rust-lang.org/)
+- 👯 Estoy colaborando en [ADempiere Project](https://github.com/adempiere)
+- 🤔 Estoy haciendo de un ERP un software que pueda ser usado en cualquier tipo de compañías
+- 📫 ¿Cómo me puedes buscar?:
+  - [X](https://x.com/YamelSenih)
+  - [LinkedIn](https://www.linkedin.com/in/yamelsenih)
 
 <h1 align="center">
-  Hola 👋, soy <a href="https://github.com/EdwinBetanc0urt">Edwin Betancourt</a>
-</h1>
+  Hi there 👋, I'm <a href="https://github.com/YamelSenih">Yamel Senih</a>
 <h3 align="center">
-  Ingeniero de Software de Venezuela 🇻🇪
+  Ingeniero de Sistemas de Venezuela 🇻🇪
 </h3>
 
-<a href='https://www.linkedin.com/in/edwinbetanc0urt/'>
+<a href='https://www.linkedin.com/in/yamelsenih'>
   <img alt="linkedin" src="./icons/contact/linkedin.svg" height='18px'/>
 </a>
-<a href='mailto:EdwinBetanc0urt@outlook.com'>
+<a href='mailto: yamelsenih@gmail.com'>
   <img alt="email" src="./icons/contact/email4.svg" height='18px'/>
 </a>
-<a href='https:/discordapp.com/users/EdwinBetanc0urt/'>
+<a href='https:/discordapp.com/users/yamelsenih/'>
   <img alt="discord" src="./icons/contact/discord.svg" height='18px'/>
 </a>
 
 
-Español | [Inglés](./README.md)
+Español | [English](./README.md)
 
 
 ---
 
-## 🏆 Perfil Github
+## 🏆 Perfil de Github
 
 ### 🔨 Lenguajes de Programación y Herramientas:
 
-* Servidor:
+* Back-End:
 
 <table>
   <tr>
@@ -52,33 +44,25 @@ Español | [Inglés](./README.md)
       <img alt="Node.js" width="48" height="48" src="./icons/node/node.svg">
       <br>Node.js
     </td>
-    <!--
     <td align="center" width="96">
       <img alt="Dart" width="48" height="48" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
       <br>Dart
-    </td>
-    -->
+  </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img alt="PHP" width="48" height="48" src="./icons/php/php.svg" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img alt="Python" width="48" height="48" src="./icons/python/python.svg" />
-      <br>Python
-    </td>
-    <!--
-    <td align="center" width="96">
-      <img alt="Python" width="48" height="48" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
+      <img alt="Rust" width="48" height="48" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
       <br>Rust
     </td>
-    -->
+    <td align="center" width="96">
+      <img alt="C#" width="48" height="48" src="./icons/java/java.svg">
+      <br>C#
+    </td>
   </tr>
 </table>
 
 
-* Cliente:
+* Front-End:
 
 <table>
   <tr>
@@ -100,19 +84,11 @@ Español | [Inglés](./README.md)
       <img alt="Vue.js" height="42px" src="./icons/vue/vue.svg"/>
       <br>Vue.js
     </td>
-    <td align="center" width="96">
-      <img alt="Sass" width="48" height="48" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <img alt="TypeScirpt" width="48" height="48" src="./icons/typescript/typescript.svg">
-      <br>TypeScirpt
-    </td>
   </tr>
 </table>
 
 
-* Base de Datos:
+* Bases de Datos:
 
 <table>
   <tr>
@@ -140,7 +116,7 @@ Español | [Inglés](./README.md)
     </td>
     <td align="center" width="96">
       <img alt="Elasticsearch" width="48" height="48" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"/>
-      <br>Elasticsearch
+      <br>Opensearch
     </td>
     <td align="center" width="96">
       <img alt="MongoDB" width="48" height="48" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
@@ -149,11 +125,20 @@ Español | [Inglés](./README.md)
   </tr>
 </table>
 
+* Móvil
 
-<!--
-Mobile
-<img alt="Android" width="48" height="48" src="./icons/android/android.svg">
--->
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img alt="Flutter" width="48" height="48" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"/>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img alt="Android" width="48" height="48" src="./icons/android/android.svg"/>
+      <br>Android
+    </td>
+  </tr>
+</table>
 
 * DevOps:
 
@@ -204,8 +189,7 @@ Mobile
   </tr>
 </table>
 
-
-* Entorno de Trabajo:
+* Work Environment:
 
 <table>
   <tr>
@@ -247,10 +231,3 @@ Mobile
 </table>
 
 <br>
-
-### Donar
-<hr>
-
-<a alt="Paypal Me" href="https://www.paypal.me/EdwinBetanc0urt" target="_blank">
-  <img alt="PayPal" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" />
-</a>
