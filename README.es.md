@@ -7,7 +7,7 @@
   - [LinkedIn](https://www.linkedin.com/in/yamelsenih)
 
 <h1 align="center">
-  Hi there 👋, I'm <a href="https://github.com/YamelSenih">Yamel Senih</a>
+  Hola 👋, soy <a href="https://github.com/YamelSenih">Yamel Senih</a>
 <h3 align="center">
   Ingeniero de Sistemas de Venezuela 🇻🇪
 </h3>
