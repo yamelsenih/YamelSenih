@@ -128,7 +128,18 @@ English | [Spanish](./README.es.md)
 
 * Mobile
 
-<img alt="Android" width="48" height="48" src="./icons/android/android.svg">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img alt="Flutter" width="48" height="48" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"/>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img alt="Android" width="48" height="48" src="./icons/android/android.svg"/>
+      <br>Android
+    </td>
+  </tr>
+</table>
 
 * DevOps:
 
