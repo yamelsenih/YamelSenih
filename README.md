@@ -1,32 +1,25 @@
-<!--
-**EdwinBetanc0urt/EdwinBetanc0urt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on [E.R.P. Consultores y Asociados, C.A.](https://erpya.com/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+- 👯 I’m looking to collaborate on [ADempiere Project](https://github.com/adempiere)
+- 🤔 I’m looking for help with improve ERP and make it a easy software for any company's 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+  - [X](https://x.com/YamelSenih)
+  - [LinkedIn](https://www.linkedin.com/in/yamelsenih)
 
 <h1 align="center">
-  Hi there 👋, I'm <a href="https://github.com/EdwinBetanc0urt">Edwin Betancourt</a>
-</h1>
+  Hi there 👋, I'm <a href="https://github.com/YamelSenih">Yamel Senih</a>
 <h3 align="center">
   Software Engineer from Venezuela 🇻🇪
 </h3>
 
-<a href='https://www.linkedin.com/in/edwinbetanc0urt/'>
+<a href='https://www.linkedin.com/in/yamelsenih'>
   <img alt="linkedin" src="./icons/contact/linkedin.svg" height='18px'/>
 </a>
-<a href='mailto:EdwinBetanc0urt@outlook.com'>
+<a href='mailto: yamelsenih@gmail.com'>
   <img alt="email" src="./icons/contact/email4.svg" height='18px'/>
 </a>
-<a href='https:/discordapp.com/users/EdwinBetanc0urt/'>
+<a href='https:/discordapp.com/users/yamelsenih/'>
   <img alt="discord" src="./icons/contact/discord.svg" height='18px'/>
 </a>
 
@@ -52,28 +45,16 @@ English | [Spanish](./README.es.md)
       <img alt="Node.js" width="48" height="48" src="./icons/node/node.svg">
       <br>Node.js
     </td>
-    <!--
     <td align="center" width="96">
       <img alt="Dart" width="48" height="48" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
       <br>Dart
-    </td>
-    -->
+  </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img alt="PHP" width="48" height="48" src="./icons/php/php.svg" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img alt="Python" width="48" height="48" src="./icons/python/python.svg" />
-      <br>Python
-    </td>
-    <!--
-    <td align="center" width="96">
-      <img alt="Python" width="48" height="48" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
+      <img alt="Rust" width="48" height="48" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
       <br>Rust
     </td>
-    -->
   </tr>
 </table>
 
@@ -104,15 +85,11 @@ English | [Spanish](./README.es.md)
       <img alt="Sass" width="48" height="48" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
       <br>Sass
     </td>
-    <td align="center" width="96">
-      <img alt="TypeScirpt" width="48" height="48" src="./icons/typescript/typescript.svg">
-      <br>TypeScirpt
-    </td>
   </tr>
 </table>
 
 
-* Data Base:
+* Database:
 
 <table>
   <tr>
@@ -140,7 +117,7 @@ English | [Spanish](./README.es.md)
     </td>
     <td align="center" width="96">
       <img alt="Elasticsearch" width="48" height="48" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"/>
-      <br>Elasticsearch
+      <br>Opensearch
     </td>
     <td align="center" width="96">
       <img alt="MongoDB" width="48" height="48" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
@@ -247,10 +224,3 @@ English | [Spanish](./README.es.md)
 </table>
 
 <br>
-
-### Donate
-<hr>
-
-<a alt="Paypal Me" href="https://www.paypal.me/EdwinBetanc0urt" target="_blank">
-  <img alt="PayPal" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" />
-</a>
