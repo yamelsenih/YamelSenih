@@ -81,10 +81,6 @@ English | [Spanish](./README.es.md)
       <img alt="Vue.js" height="42px" src="./icons/vue/vue.svg"/>
       <br>Vue.js
     </td>
-    <td align="center" width="96">
-      <img alt="Sass" width="48" height="48" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
-      <br>Sass
-    </td>
   </tr>
 </table>
 
@@ -126,11 +122,9 @@ English | [Spanish](./README.es.md)
   </tr>
 </table>
 
-<!--
 * Mobile
 
 <img alt="Android" width="48" height="48" src="./icons/android/android.svg">
--->
 
 * DevOps:
 
@@ -180,7 +174,6 @@ English | [Spanish](./README.es.md)
     </td>
   </tr>
 </table>
-
 
 * Work Environment:
 
