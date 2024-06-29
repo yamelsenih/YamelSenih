@@ -30,6 +30,14 @@ Español | [English](./README.md)
 
 ## 🏆 Perfil de Github
 
+### 📊 Alguna Info :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yamelsenih&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![YamelSenih GitHub stats](https://github-readme-stats.vercel.app/api?username=yamelsenih&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamelsenih&layout=donut&theme=dark)
+
 ### 🔨 Lenguajes de Programación y Herramientas:
 
 * Back-End:
