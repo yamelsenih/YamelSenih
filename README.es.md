@@ -38,6 +38,8 @@ Español | [English](./README.md)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamelsenih&layout=donut&theme=dark)
 
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=yamelsenih&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### 🔨 Lenguajes de Programación y Herramientas:
 
 * Back-End:
